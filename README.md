@@ -5,7 +5,7 @@
 - Sandile Mfazi (Team Lead)
 - Emily Shaibu
 - Melissa Tshipietsile
-- Ketra Molwane
+- Hloniphile Ketra Molwane
 
 ## Table of Contents
 - [Introduction](#introduction)
