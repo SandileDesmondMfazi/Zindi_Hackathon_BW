@@ -63,24 +63,24 @@ Our project aims to bring about positive change by helping identify individuals 
 
 We would like to thank Zindi for providing the dataset used in this project, and our mentors for their guidance and support throughout the hackathon.
 
-##Steps
+## Steps
 
-**HOW TO SET UP FOLDERS AND WHERE EACH FILE IS SAVED**:
+**HOW TO SET UP FOLDERS AND WHERE EACH FILE IS SAVED** :
 
 click the link to the repo and clone the repository
 
 
-**ORDER IN WHICH TO RUN CODE**:
+**ORDER IN WHICH TO RUN CODE** :
 
 the code can be run from top to bottom in its respective order 
 
 
-**EXPLANATIONS OF FEATURES USED**:
+**EXPLANATIONS OF FEATURES USED** :
 
 (SANDILE Answer)
 
 
-**ENVIRONMENT FOR THE CODE TO BE RUN **:
+**ENVIRONMENT FOR THE CODE TO BE RUN ** :
 
 No environment in place
 
@@ -90,5 +90,5 @@ No environment in place
 Google Colab was used in the making of this model
 
 
-**EXPECTED RUN TIME FOR EACH NOTEBOOK**:
+**EXPECTED RUN TIME FOR EACH NOTEBOOK** :
 
