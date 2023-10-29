@@ -1,5 +1,5 @@
 
-## BENK ACCOUNT ACCESS CLASSIFIER
+## BANK ACCOUNT ACCESS CLASSIFIER
 # Predictive Pioneers - Bank Account Prediction Model
 **Team Members:**
 - Sandile Mfazi (Team Lead)
