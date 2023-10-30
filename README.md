@@ -72,7 +72,7 @@ click the link to the repo and clone the repository
 
 **ORDER IN WHICH TO RUN CODE** :
 
-the code can be run from top to bottom in its respective order 
+the code can be run from top to bottom in its respective order - any code that has been commented out does not affect the error rate, however if it is necessary to check all aspects of the code feel free to uncomment the sections and run them. 
 
 
 **EXPLANATIONS OF FEATURES USED** :
